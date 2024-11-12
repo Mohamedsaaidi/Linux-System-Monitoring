@@ -1,7 +1,9 @@
 # What to monitor:
-Bandwidth usage (incoming and outgoing traffic)
-Network latency and packet loss
-Connection status and listening ports
+1:Bandwidth usage (incoming and outgoing traffic)
+
+2:Network latency and packet loss
+
+3:Connection status and listening ports
 # Commands and tools:
 # ifconfig/ip: 
 Checks network interfaces and IP addresses.
@@ -21,4 +23,5 @@ Monitors incoming and outgoing traffic per interface.
 
 # Key indicators:
 High bandwidth usage on specific interfaces
+
 Packet loss or high latency in pings could signal network issues.
