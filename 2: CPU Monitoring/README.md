@@ -1,7 +1,9 @@
 # What to monitor:
-CPU load and usage percentages
-CPU load averages over time
-Temperature and core usage
+1:CPU load and usage percentages
+
+2:CPU load averages over time
+
+3: Temperature and core usage
 # Commands and tools:
 ## top:
 Provides a real-time view of processes and CPU usage.
@@ -19,4 +21,5 @@ Shows system processes, memory, swap, I/O, and CPU.
 
 # Key indicators:
 High load averages relative to CPU core count
+
 High %idle indicates low CPU usage, low %idle indicates high usage
