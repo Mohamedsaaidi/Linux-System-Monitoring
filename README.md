@@ -3,9 +3,9 @@
 ## Table of Contents
 
 1. [Introduction](#intro)
-2. [CPU Monitoring](./cpu-monitoring/README.md)
-3. [Memory Monitoring](./memory-monitoring/README.md)
-4. [Disk Usage and I/O Monitoring](./disk-monitoring/README.md)
+2. [CPU Monitoring](2%3A%20CPU%20Monitoring)
+3. [Memory Monitoring](3%3AMemory%20Monitoring
+4. [Disk Usage and I/O Monitoring](4%3ADisk%20Usage%20and%20I-O%20Monitoring)
 5. [Network Monitoring](./network-monitoring/README.md)
 6. [Service and Process Monitoring](./service-monitoring/README.md)
 7. [Log Monitoring](./log-monitoring/README.md)
