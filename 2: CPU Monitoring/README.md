@@ -3,7 +3,7 @@ CPU load and usage percentages
 CPU load averages over time
 Temperature and core usage
 ## Commands and tools:
-top: Provides a real-time view of processes and CPU usage.
+# top: Provides a real-time view of processes and CPU usage.
 bash
 Copy code
 top
