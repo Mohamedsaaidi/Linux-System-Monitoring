@@ -17,7 +17,7 @@ Filters logs by keywords or specific events.
 
 ex:grep "error" /var/log/syslog
 
-#Key indicators:
+# Key indicators:
 Frequent errors or warnings could indicate misconfigurations.
 
 Unauthorized access attempts in security logs need attention.
