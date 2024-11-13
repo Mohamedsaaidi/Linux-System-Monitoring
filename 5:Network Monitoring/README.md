@@ -21,7 +21,13 @@ Displays network bandwidth usage by connection.
 # nload:
 Monitors incoming and outgoing traffic per interface.
 
+# SS
+
 # Key indicators:
 High bandwidth usage on specific interfaces
 
 Packet loss or high latency in pings could signal network issues.
+
+
+
+![Alt text](https://github.com/Mohamedsaaidi/Linux-System-Monitoring/blob/main/Images/Screenshot%202024-11-13%20at%2011.02.53.png)
