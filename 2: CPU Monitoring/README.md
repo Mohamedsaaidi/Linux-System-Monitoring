@@ -23,3 +23,6 @@ Shows system processes, memory, swap, I/O, and CPU.
 High load averages relative to CPU core count
 
 High %idle indicates low CPU usage, low %idle indicates high usage
+
+
+![Alt text]([https://github.com/username/repository-name/raw/main/images/image-file-name.png](https://github.com/Mohamedsaaidi/Linux-System-Monitoring/blob/main/Images/Screenshot%202024-11-13%20at%2010.42.58.png))
