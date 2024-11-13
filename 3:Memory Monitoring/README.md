@@ -23,3 +23,7 @@ Lists processes by memory usage.
 Low free memory or high swap usage can indicate memory pressure.
 
 High cache usage can be normal but should be understood in context.
+
+
+
+![Alt text](https://github.com/Mohamedsaaidi/Linux-System-Monitoring/blob/main/Images/Screenshot%202024-11-13%20at%2010.53.55.png)
