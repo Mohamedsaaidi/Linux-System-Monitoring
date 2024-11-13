@@ -17,3 +17,6 @@ Displays logged-in users and load averages.
 # Key indicators:
 
 High load averages relative to the CPU count can indicate performance issues.
+
+
+![text](https://github.com/Mohamedsaaidi/Linux-System-Monitoring/blob/main/Images/Screenshot%202024-11-13%20at%2011.15.13.png)
