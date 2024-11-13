@@ -21,3 +21,7 @@ ex:grep "error" /var/log/syslog
 Frequent errors or warnings could indicate misconfigurations.
 
 Unauthorized access attempts in security logs need attention.
+
+
+![text](https://github.com/Mohamedsaaidi/Linux-System-Monitoring/blob/main/Images/Screenshot%202024-11-13%20at%2011.12.07.png)
+
