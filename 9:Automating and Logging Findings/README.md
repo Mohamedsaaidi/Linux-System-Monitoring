@@ -30,3 +30,6 @@ echo "---" >> /var/log/sys_monitor.log
 
 ### Running the script:
 Save this script as sys_monitor.sh, make it executable, and set it to run periodically using cron.
+
+
+![text](https://github.com/Mohamedsaaidi/Linux-System-Monitoring/blob/main/Images/Screenshot%202024-11-13%20at%2011.18.30.png)
