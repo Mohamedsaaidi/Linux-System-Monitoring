@@ -23,3 +23,8 @@ Shows available and mounted block devices.
 High disk usage (80% or more) may require attention.
 
 High disk I/O or latency can indicate bottlenecks in storage.
+
+
+
+
+![Alt text](https://github.com/Mohamedsaaidi/Linux-System-Monitoring/blob/main/Images/Screenshot%202024-11-13%20at%2010.57.29.png)
